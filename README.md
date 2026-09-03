@@ -15,3 +15,5 @@ Files:
 - europe
 - north america
 - south america
+
+**All ping values are estimates unless otherwise noted!**
