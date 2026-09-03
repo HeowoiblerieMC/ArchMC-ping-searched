@@ -1,5 +1,5 @@
 # ArchMC-ping-searched
-ArchMC Ping Research (purchased Minecraft, not cracked client)
+ArchMC Ping Research *(purchased Minecraft, not cracked client)*
 
 Server Location:
 Houston, Texas, USA
