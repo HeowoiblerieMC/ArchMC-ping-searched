@@ -1,0 +1,1 @@
+# ArchMC-ping-searched
